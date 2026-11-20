@@ -1,0 +1,13 @@
+pandas
+joblib
+nltk
+spacy
+matplotlib
+seaborn
+scikit-learn
+numpy
+regex
+fastapi
+uvicorn
+imbalanced-learn
+requests
